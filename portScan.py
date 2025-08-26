@@ -18,7 +18,6 @@ Uso:
   - Portas específicas:    python3 portScan.py 192.168.0.1 -s 20 -e 1000
   - Modo stealth:          python3 portScan.py 192.168.0.1 --stealth
 
-Autor: Port Scanner Pro
 Versão: 2.0
 """
 
