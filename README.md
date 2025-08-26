@@ -142,5 +142,3 @@ O modo stealth inclui automaticamente:
 Este software é fornecido apenas para fins educacionais e de teste de segurança autorizado. O uso não autorizado deste software contra redes que você não possui ou não tem permissão para testar é estritamente proibido e pode violar leis locais, estaduais e federais. Os desenvolvedores não se responsabilizam por qualquer uso indevido ou dano causado por este software.
 
 Sempre obtenha permissão explícita por escrito antes de realizar qualquer teste de segurança.
-
-Happy (and ethical) scanning! 🎯
