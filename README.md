@@ -127,15 +127,6 @@ O modo stealth inclui automaticamente:
 
     ✅ Atrasos aleatórios entre conexões
 
-📝 Logging
-
-Os logs são salvos em logs/port_scanner.log por padrão:
-text
-
-2024-01-15 10:30:01 - PortScanner - INFO - Iniciando scanner de portas
-2024-01-15 10:30:02 - PortScanner - INFO - Porta aberta encontrada: 192.168.0.1:22 - SSH
-2024-01-15 10:35:23 - PortScanner - INFO - Scan finalizado. 3 portas abertas encontradas
-
 🚨 Limitações e Considerações
 
     Performance: Escaneamentos muito largos podem consumir recursos significativos
